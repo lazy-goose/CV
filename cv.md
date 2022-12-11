@@ -7,3 +7,8 @@
     alt="Avatar"
     src="https://user-images.githubusercontent.com/119844669/206929715-9a14cc49-b91f-4af0-aa41-d41a008e78d8.jpg"
   />
+
+## Contacts
+  - Telegram: @lazy_goose
+  - Email: shamal.ma.rss@gmail.com
+  - Discord: lazy-goose#1115
