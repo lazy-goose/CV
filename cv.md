@@ -15,3 +15,7 @@
 
 ## About
   My motto is 'lazy and friendly'. Sometimes I am either gloomy or merry, but always punctual and motivated. Interest in solving puzzles gives me motivation to learning programming. I hope I will gain complete knowledge for employment from this course.
+
+## Skills
+  - git
+  - html/css
