@@ -19,3 +19,10 @@
 ## Skills
   - git
   - html/css
+
+## Code examples
+  ```js
+    function multiply(a, b) {
+      return a * b
+    }
+  ```
