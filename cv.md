@@ -1,6 +1,6 @@
 ## Avatar and name
-  | Shamal Maksim |
-  | ------------- |
+
+  *Shamal Maksim*
 
   <img
     width="150"
