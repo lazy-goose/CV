@@ -29,3 +29,6 @@
 
 ## Programming work experience
   None
+
+## Education
+  Graduated from BSUIR, Electronic Security Systems
