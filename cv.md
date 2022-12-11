@@ -26,3 +26,6 @@
       return a * b
     }
   ```
+
+## Programming work experience
+  None
