@@ -32,3 +32,6 @@
 
 ## Education
   Graduated from BSUIR, Electronic Security Systems
+
+## English level
+  A2
