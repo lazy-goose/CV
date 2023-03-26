@@ -23,6 +23,12 @@
   --z-2: 2;
 }
 
+/* Utility classes */
+
+.transparent {
+  opacity: 0;
+}
+
 /* JavaScript: Font Loading */
 
 body.font-loading {
